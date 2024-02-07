@@ -1,0 +1,13 @@
+body{
+    background-color: #f3f4f6;
+}
+
+.tarjeta{
+    background-color: white;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.form-control{
+    background-color: #f3f4f6;
+}
